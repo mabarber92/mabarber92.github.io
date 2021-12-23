@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-US
-title: My Awesome Site
+title: The Open Islamicate Texts Initiative
 email:
 description:
 baseurl: # the optional subpath of your site, e.g. "/blog"
@@ -24,9 +24,9 @@ author:
   twitter:
   picture:
 twitter_username:
-github_username:
-logo: # path of site logo, e.g. "/assets/images/logo.png"
-search: # true, false (default)
+github_username: openiti
+logo: "/assets/images/main-images/OpenITI_Logo_Project-01-01.png"
+search: true
 search_full_content: false # true, false (default)
 search_provider: # lunr (default), algolia
 algolia:
@@ -83,3 +83,11 @@ defaults:
     values:
       layout: post
       read_time: true
+
+collections:
+   team:
+     output: true
+   documentation:
+     output: true
+
+excerpt_separator: "\r\r"
