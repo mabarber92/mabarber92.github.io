@@ -14,7 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-US
-title: Creating the digital infrastructure for the study of the premodern Islamicate world
+title: Open Islamicate Texts Initiative
+tagline: Creating the digital infrastructure for the study of the premodern Islamicate world
 email:
 description:
 baseurl: # the optional subpath of your site, e.g. "/blog"
