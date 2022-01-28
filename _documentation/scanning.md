@@ -1,5 +1,5 @@
 ---
 title: "Scanning Guidelines"
 layout: page
-image: /assets/images/main-images/Isfahan_Lotfollah_mosque_ceiling_symmetric-banner-narrow.jpg
+image: /assets/images/main-images/Isfahan_Lotfollah_mosque_ceiling_symmetric_narrow_border.png
 ---

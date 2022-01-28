@@ -5,7 +5,7 @@ author:
   picture: /assets/images/team/miller.jpg
 title: "Matt Miller"
 image:
-   path: /assets/images/main-images/Isfahan_Lotfollah_mosque_ceiling_symmetric-banner-narrow.jpg
+   path: /assets/images/main-images/Isfahan_Lotfollah_mosque_ceiling_symmetric_narrow_border.png
    thumbnail: /assets/images/team/miller.jpg
 
 ---

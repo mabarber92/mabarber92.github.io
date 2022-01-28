@@ -3,7 +3,7 @@ title: "Documentation"
 layout: collection
 permalink: /docs/
 collection: documentation
-image: /assets/images/main-images/Isfahan_Lotfollah_mosque_ceiling_symmetric-banner-narrow.jpg
+image: /assets/images/main-images/Isfahan_Lotfollah_mosque_ceiling_symmetric_narrow_border.png
 ---
 
 Please find below links to documentation for various parts of the project
