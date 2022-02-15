@@ -1,8 +1,9 @@
 ---
 title: "Our projects"
-layout: page
+layout: collection
 permalink: /projects/
+collection: projects
 image: /assets/images/main-images/Isfahan_Lotfollah_mosque_ceiling_symmetric_narrow_border.png
 ---
 
-** Here there would be a list of the main projects - perhaps linking to more detailed pages **
+The OpenITI is involved in a number of exciting projects. See a list of our projects (past and present) below:
