@@ -4,53 +4,23 @@ layout: page
 image: /assets/images/main-images/Isfahan_Lotfollah_mosque_ceiling_symmetric_narrow_border.png
 ---
 ## Principal Investigators
-
-**Matthew Thomas Miller**
-
-Assistant Professor of Persian Literature & Digital Humanities, Roshan Institute for Persian Studies, University of Maryland, College Park; Director, [Roshan Initiative in Persian Digital Humanities](https://sllc.umd.edu/fields/persian/roshan-institute/digital-humanities); Affiliate, [Maryland Institute for Technology in the Humanities](https://mith.umd.edu/)
-
-**Maxim Romanov**
-
-Emmy Noether Junior Research Group Leader, [The Evolution of Islamic Societies (*c. 600-1600 CE*)](https://www.csmc.uni-hamburg.de/research/current-projects/evolution-of-islamic-societies.html), Universität Hamburg
-
-**Sarah Bowen Savant**
-
-Professor of History, [Institute for the Study of Muslim Civilisations](https://www.aku.edu/ismc/Pages/home.aspx), Aga Khan University, London; Principal Investigator, [KITAB project](https://kitab-project.org/)
-## Aga Khan University Personnel
-
-**Mathew Barber**
-
-Research Associate (Data Visualization), [KITAB project](https://kitab-project.org/)
-
-**Lorenz Nigst**
-
-Research Associate (Corpus Management), [KITAB project](https://kitab-project.org/)
-
-**Masoumeh Seydi**
-
-Digital Lead, [KITAB project](https://kitab-project.org/)
-
-**Peter Verkinderen**
-
-Post-Doctoral Research Fellow, [KITAB project](https://kitab-project.org/)
-## University of Maryland, College Park Personnel
-
-**Şaban Ağalar**
-
-Doctoral Candidate, [Department of History](https://history.umd.edu/), University of Maryland, College Park; Graduate Fellow, [Roshan Institute for Persian Studies](https://sllc.umd.edu/fields/persian)
-
-**Jonathan Parkes Allen**
-
-Mellon Post-Doctoral Fellow, [Roshan Institute for Persian Studies](https://sllc.umd.edu/fields/persian), University of Maryland, College Park; Acting Assistant Director, *OpenITI AOCP* project
-
-**John Mullan**
-
-Faculty Assistant, [Roshan Institute for Persian Studies](https://sllc.umd.edu/fields/persian), University of Maryland, College Park; Digital Specialist, [Roshan Initiative in Persian Digital Humanities](https://sllc.umd.edu/fields/persian/roshan-institute/digital-humanities)
-
-**Mehdy Sedaghat Payam**
-
-Doctoral Candidate, [Department of English](https://english.umd.edu/), University of Maryland, College Park; Graduate Fellow, [Roshan Institute for Persian Studies](https://sllc.umd.edu/fields/persian)
-## Senior Advisors
+<div class="entries-{{ page.entries_layout | default: 'list' }}">
+  {% include undated-collection.html collection="pis" %}
+</div>
+
+------------------------------------------------
+<br>## Aga Khan University Personnel
+<div class="entries-{{ page.entries_layout | default: 'grid' }}">
+  {% include undated-collection.html collection="aku-team" %}
+</div>
+
+------------------------------------------------
+<br>## University of Maryland, College Park Personnel<div class="entries-{{ page.entries_layout | default: 'grid' }}">
+  {% include undated-collection.html collection="maryland-team" %}
+</div>
+
+-------------------------------------------------
+<br>## Senior Advisors
 
 **Bridget Almas**
 

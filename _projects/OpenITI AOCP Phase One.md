@@ -2,7 +2,10 @@
 title: "*Open Islamicate Texts Initiative Arabic-script OCR Catalyst Project* (*OpenITI AOCP*) Phase One"
 layout: page
 image: /assets/images/main-images/Isfahan_Lotfollah_mosque_ceiling_symmetric_narrow_border.png
+excerpt: "Funded through two grants from [The Andrew W. Mellon Foundation](https://mellon.org/), Phase One of the *Open Islamicate Texts Initiative Arabic-script OCR Catalyst Project* (*OpenITI AOCP*) is the first undertaking of its kind to tackle the technical and organizational barriers that historically have stymied the development of Arabic-script OCR and digital text production for Islamicate Studies."
 ---
+
+![](/assets/images/pages/OpenITI AOCP Phase One/media/image1.png){: width="50%"}{: .align-right}
 
 Funded through two grants from [The Andrew W. Mellon Foundation](https://mellon.org/), Phase One of the *Open Islamicate Texts Initiative Arabic-script OCR Catalyst Project* (*OpenITI AOCP*) is the first undertaking of its kind to tackle the technical and organizational barriers that historically have stymied the development of Arabic-script OCR and digital text production for Islamicate Studies.
 
@@ -92,8 +95,6 @@ Professor of Law, Harvard Law School; Professor of History, Harvard University; 
 
 **Marina Rustow**
 
-Khedouri A. Zilkha Professor of Jewish Civilization in the Near East, Princeton University; Director, [Princeton Geniza Lab](https://genizalab.princeton.edu/)
+Khedouri A. Zilkha Professor of Jewish Civilization in the Near East, Princeton University; Director, [Princeton Geniza Lab](https://genizalab.princeton.edu/)
 
-*Image: please take a screenshot from eScriptorium and make it the image for this page. Align upper right corner.*
 
-![](/assets/images/pages/OpenITI AOCP Phase One/media/image1.png)

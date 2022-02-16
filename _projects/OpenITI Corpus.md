@@ -2,7 +2,10 @@
 title: "OpenITI Corpus"
 layout: page
 image: /assets/images/main-images/Isfahan_Lotfollah_mosque_ceiling_symmetric_narrow_border.png
+excerpt: "The [OpenITI corpus](https://github.com/OpenITI/RELEASE) is a open-access and machine-actionable collection of Persian and Arabic texts."
 ---
+
+![](/assets/images/pages/OpenITI Corpus/media/image1.png){: width="50%"}{: .align-right}
 
 The [OpenITI corpus](https://github.com/OpenITI/RELEASE) is a open-access and machine-actionable collection of Persian and Arabic texts.
 
@@ -13,9 +16,3 @@ OpenITI corpus texts are intended to be used for the purposes of computational t
 For more information on the OpenITI corpus, please see [here](https://kitab-project.org/docs/openITI), [here](https://dev.clariah.nl/files/dh2019/boa/0838.html), and [here](https://kitab-project.org/corpus/).
 
 For more information on OpenITI's work on digital publications, please see its project page.
-
-*Image: steal a picture from one of the links above and align upper right corner.*
-
-![](/assets/images/pages/OpenITI Corpus/media/image1.png)
-
-From [this link](https://dev.clariah.nl/files/dh2019/boa/0838.html)

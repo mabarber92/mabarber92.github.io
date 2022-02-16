@@ -35,7 +35,7 @@ algolia:
   index_name: # YOUR_INDEX_NAME
   search_only_api_key: # YOUR_SEARCH_ONLY_API_KEY
   powered_by: # true (default), false
-
+breadcrumbs: true
 # Build settings
 markdown: kramdown
 
@@ -91,6 +91,12 @@ collections:
    documentation:
      output: true
    projects:
+     output: true
+   pis:
+     output: true
+   aku-team:
+     output: true
+   maryland-team:
      output: true
 
 excerpt_separator: "\r\r"

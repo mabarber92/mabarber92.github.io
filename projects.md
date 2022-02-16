@@ -1,6 +1,6 @@
 ---
 title: "Our projects"
-layout: collection
+layout: collection-undated
 permalink: /projects/
 collection: projects
 image: /assets/images/main-images/Isfahan_Lotfollah_mosque_ceiling_symmetric_narrow_border.png

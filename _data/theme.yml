@@ -50,9 +50,10 @@ google_fonts:
 
 navigation_pages:
   - about.md
+  - acknowledgements.md
+  - documentation.md
   - team.md
   - projects.md
-  - documentation.md
   - Publications.md
-  - acknowledgements.md
+  
 
