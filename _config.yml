@@ -100,3 +100,14 @@ collections:
      output: true
 
 excerpt_separator: "\r\r"
+
+# Customised config data for the page sponsors
+sidebar_sponsors: true
+
+sponsors:
+   mellon:
+     link: "https://mellon.org/"
+     image: "/assets/images/main-images/mellon-logo.jpeg"
+   neh:
+     link: "https://www.neh.gov/"
+     image: "/assets/images/main-images/neh.jpg"
