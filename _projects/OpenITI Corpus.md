@@ -15,4 +15,4 @@ OpenITI corpus texts are intended to be used for the purposes of computational t
 
 For more information on the OpenITI corpus, please see [here](https://kitab-project.org/docs/openITI), [here](https://dev.clariah.nl/files/dh2019/boa/0838.html), and [here](https://kitab-project.org/corpus/).
 
-For more information on OpenITI's work on digital publications, please see its project page.
+For more information on OpenITI's work on digital publications, please see its [project page]({{site.baseurl}}{% link _projects/Digital_Editions.md %}).
